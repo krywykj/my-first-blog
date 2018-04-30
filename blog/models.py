@@ -1,3 +1,5 @@
+# Le modèle, ce sont des objets, avec des attributs, peuplant la base de données, et qui seront les variables du site internet que nous crérons. 
+
 from django.db import models
 from django.utils import timezone
 
